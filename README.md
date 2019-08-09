@@ -24,6 +24,6 @@ Descrição do jogo:
   - Ao coletar recursos o jogador ganha 3 ou 5 pontos, respectivamente para madeira e ouro;
   - Se o jogador entrar ou sair de um lago o mesmo perderá 10 pontos;
   
- Para execução, conforme instruído pelo professor, utilizar o comando: python3 main.py dummy agent1 agent2 agent3...
+ Para execução, conforme instruído pelo professor, utilizar o comando: `python3 main.py dummy agent1 agent2 agent3...`
   
  O enunciado originar foi disponibilizado pelo professor em seu Git: https://github.com/laertemateus/ia-busca-competitiva-2018-2
