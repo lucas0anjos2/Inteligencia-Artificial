@@ -13,11 +13,15 @@ O primeiro trabalho consistia na implementação de um algoritmo A-estrela para 
 Cada aluno seria um jogador e ficaria responsável pela implementação do mesmo. Os alunos deveriam implementar 
 o algoritmo de modo a otimizar o comportamento de seu jogador. O código para execução do mundo do jogo foi
 disponibilizado pelo professor da disciplina.
+
 Descrição do jogo:
+  - O objetivo será atingir a maior pontuação;
   - O mundo será uma matriz nxn;
   - Cada jogador possuirá uma base;
   - O modo de pontuação será coletando recursos pelo mundo e os trazendo para sua respectiva base;
   - Cada jogador poderá atacar adversários para roubar seus recursos;
   - Para cada turno, ou iteração, do jogo cada jogador pode realizar um único movimento (cima, baixo, direita, esquerda);
+  - Ao coletar recursos o jogador ganha 3 ou 5 pontos, respectivamente para madeira e ouro;
+  - Se o jogador entrar ou sair de um lago o mesmo perderá 10 pontos;
   
  O enunciado originar foi disponibilizado pelo professor em seu Git: https://github.com/laertemateus/ia-busca-competitiva-2018-2
