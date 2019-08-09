@@ -27,7 +27,7 @@ Descrição do jogo:
   
  Para execução, conforme instruído pelo professor, utilizar o comando: `python3 main.py dummy agent1 agent2 agent3...`
   
- O enunciado originar foi disponibilizado pelo professor em seu Git: https://github.com/laertemateus/ia-busca-competitiva-2018-2
+ O enunciado original foi disponibilizado pelo professor em seu Git: https://github.com/laertemateus/ia-busca-competitiva-2018-2
 
 # Trabalho 2
 
