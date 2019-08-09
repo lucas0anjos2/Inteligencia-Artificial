@@ -5,7 +5,8 @@ durante o segundo semestre de 2018.
 Para melhor entendimento recomenda-se leitura dos enunciados originais disponibilados pelo professor.
 
 O trabalho 1 foi desenvolvido em dupla com o graduando Railson Martins da Mata.
-O trabalho 2 foi desenvolvido em grupo com os graduandos Railson Martins da Mata e Gabriel Moura Catharino.
+Os trabalhos 2 e 3 foram desenvolvidos em grupo com os graduandos Railson Martins da Mata e Gabriel Moura Catharino.
+Todas as implementações foram desenvolvidas em python.
 
 # Trabalho 1
 
