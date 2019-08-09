@@ -3,3 +3,6 @@ O presente projeto ilustra minhas resoluções para os trabalhos da disciplina d
 pelo Prof. Dr. Laerte M. Rodrigues no Instituto Federal de Ciência e Tecnologia de Minas Gerais, campus Bambuí,
 durante o segundo semestre de 2018.
 Para melhor entendimento recomenda-se leitura dos enunciados.
+
+O trabalho 1 foi desenvolvido em dupla com o graduando Railson Martins da Mata.
+O trabalho 2 foi desenvolvido em grupo com os graduandos Railson Martins da Mata e Gabriel Moura Catharino.
