@@ -37,5 +37,5 @@ A descrição detalhada foi enviada aos alunos em um PDF que está presente com 
 
 # Trabalho 3
 
-O Terceiro trabalhgo se tratava de analisar o sentimento de tweets. Foi disponibilizada uma base de dados e também a descrição
+O Terceiro trabalho se tratava de analisar o sentimento de tweets. Foi disponibilizada uma base de dados e também a descrição
 do trabalho pelo professor.
