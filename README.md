@@ -9,7 +9,7 @@ O trabalho 2 foi desenvolvido em grupo com os graduandos Railson Martins da Mata
 
 # Trabalho 1
 
-O primeiro trabalho consistia na implementação de um algoritmo A-estrela para a competição em um jogo.
+O primeiro trabalho consistiu na implementação de um algoritmo A-estrela para a competição em um jogo.
 Cada aluno seria um jogador e ficaria responsável pela implementação do mesmo. Os alunos deveriam implementar 
 o algoritmo de modo a otimizar o comportamento de seu jogador. O código para execução do mundo do jogo foi
 disponibilizado pelo professor da disciplina.
@@ -27,3 +27,14 @@ Descrição do jogo:
  Para execução, conforme instruído pelo professor, utilizar o comando: `python3 main.py dummy agent1 agent2 agent3...`
   
  O enunciado originar foi disponibilizado pelo professor em seu Git: https://github.com/laertemateus/ia-busca-competitiva-2018-2
+
+# Trabalho 2
+
+O segundo trabalho consistiu na escolha e implementação de 2 dentre 4 algoritmos: KNN, RNA, SVM ou Árvore de decisão.
+Foi disponibilizada uma base de dados contendo informações sobre células e o objetivo do trabalho foi implementar e utilizar os algoritmos escolhidos para classificar se a amostra se trata de uma célula com câncer beningno ou maligno para o câncer de mama.
+A descrição detalhada foi enviada aos alunos em um PDF que está presente com o nome de "descrição_trabalhos2e3.pdf".
+
+# Trabalho 3
+
+O Terceiro trabalhgo se tratava de analisar o sentimento de tweets. Foi disponibilizada uma base de dados e também a descrição
+do trabalho pelo professor.
